@@ -120,10 +120,10 @@ input{
 }
 .country{
     margin:0.5rem 0rem 1rem;
-    padding: 0.4rem;
+    padding: 0.6rem;
     border: 0.1rem solid rgba(0,0,0,0.3);
     border-radius: 0.25rem;
-    width: 7rem;
+    width: 9rem;
     display: flex;
     justify-content: space-between;
 }
@@ -182,7 +182,7 @@ input{
         width: 35%;
     }
     .submit{
-        transform: translateX(55%);
+        transform: translateX(50%);
     }
     .cost .amount{
         margin-top: 3rem;
