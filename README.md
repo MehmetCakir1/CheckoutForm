@@ -8,3 +8,4 @@
 *I learned how to react to HTML DOM events.<br>
 *I learned how to add and delete HTML elements.<br>
 *This project was so beneficial to me.<br>
+![](https://github.com/MehmetCakir1/checkoutForm/blob/main/checkout.gif)
